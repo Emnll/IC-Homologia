@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 21 12:33:14 2025
-
-@author: Jean
-"""
-
 import os
 import pandas as pd
 import requests, sys, json
@@ -255,7 +248,7 @@ inicio = datetime.datetime.now()
 #Leitura do caminho 
 diretorio_atual = os.getcwd()
 
-caminho_arquivo = r"C:\Users\Jean\Desktop\IC\PROJETO IC\PROJETO HOMOLOGIA\CODIGO\essential_genes.csv"
+caminho_arquivo = r"essential_genes.csv"
 
 resultado_arq = os.path.join(diretorio_atual,caminho_arquivo)
 

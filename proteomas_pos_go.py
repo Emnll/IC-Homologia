@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 22 00:53:21 2025
-
-@author: Jean
-"""
-
 import pandas as pd
 import re
 from Bio import SeqIO

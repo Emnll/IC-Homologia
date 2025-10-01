@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 28 11:42:30 2025
-
-@author: Jean
-"""
-
 import pandas as pd
 import os 
 import requests, sys

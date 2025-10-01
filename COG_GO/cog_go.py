@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May  7 22:54:29 2025
-
-@author: Jean
-"""
-
 import os
 import pandas as pd
 import requests, sys, json
@@ -227,10 +220,10 @@ def get_id_mapping_results_stream(url):
 diretorio_atual = os.getcwd()
 
 #txt_uniprot = 'gene_refseq_uniprotkb_collab.txt' 
-txt_uniprot = r"C:\Users\Jean\Desktop\periodo 2024.2\IC\apresentação 3\TESTE_CODIGO_IC\gene_refseq_uniprotkb_collab.txt"
+txt_uniprot = r"gene_refseq_uniprotkb_collab.txt"
 
 #url_cog = r"dataframe_cog_completo_ou.csv"
-url_cog = r"C:\Users\Jean\Desktop\periodo 2024.2\IC\Entrega orthofinder\código\RESULTADOS FINAIS\dataframe_cog_completo_ou.csv"
+url_cog = r"dataframe_cog_completo_ou.csv"
 
 df_csv = pd.read_csv(url_cog, sep=',',low_memory=False)
 

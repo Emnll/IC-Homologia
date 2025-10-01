@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 28 17:42:48 2025
-Updated to return enriched GO terms as a new dataframe without merging
-@author: Jean
-"""
-
 import requests
 import pandas as pd
 import os
