@@ -1,0 +1,15 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16
+Analyzed List:	Client Text Box Input (Saccharomyces cerevisiae)
+Reference List:	Saccharomyces cerevisiae (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1233
+GO molecular function complete	Saccharomyces cerevisiae - REFLIST (6060)	Client Text Box Input (223)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+structural constituent of chromatin (GO:0030527)	10	5	.37	+	13.59	1.72E-02
+binding (GO:0005488)	3114	148	114.59	+	1.29	7.06E-03

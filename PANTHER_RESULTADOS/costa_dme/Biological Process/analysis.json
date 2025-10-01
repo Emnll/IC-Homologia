@@ -1,0 +1,613 @@
+{"overrepresentation": {
+    "bonferroni_correction": 1218,
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Drosophila melanogaster",
+        "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023"
+    }},
+    "tool_release_date": 20240807,
+    "data_version_release_date": "PANTHER version 19.0 Released 2024-06-20",
+    "annotation_type": "PANTHER GO-Slim Biological Process",
+    "correction": "BONFERRONI",
+    "test_type": "FISHER",
+    "group": [
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 106.31538461538463,
+                    "expected": 0.028217929238115908,
+                    "pValue": 0.0031680969474890534,
+                    "mapped_id_list": {"mapped_id": [
+                        "P23128",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 13,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0017148",
+                    "label": "negative regulation of translation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 5.36832627118644,
+                    "expected": 2.049055784675494,
+                    "pValue": 0.0028357899614417687,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "Q9VL91",
+                        "P18491",
+                        "P11536",
+                        "P32030",
+                        "P22265",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P29617",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 944,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0080090",
+                    "label": "regulation of primary metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 4.687974098057354,
+                    "expected": 2.3464293466464077,
+                    "pValue": 0.010560859208442646,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "Q9VL91",
+                        "P18491",
+                        "P11536",
+                        "P32030",
+                        "P22265",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P29617",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1081,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0019222",
+                    "label": "regulation of metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 13,
+                    "fold_enrichment": 3.422342857142857,
+                    "expected": 3.7985673974386804,
+                    "pValue": 0.03694973537736121,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P18491",
+                        "P11536",
+                        "A0A0B4K765",
+                        "P35415",
+                        "Q9XZ56",
+                        "Q9VL91",
+                        "P32030",
+                        "P22265",
+                        "P23128",
+                        "P29617",
+                        "P25724"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1750,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0050789",
+                    "label": "regulation of biological process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 4.9344693281402146,
+                    "expected": 2.2292164098111567,
+                    "pValue": 0.006444227286462163,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "Q9VL91",
+                        "P18491",
+                        "P11536",
+                        "P32030",
+                        "P22265",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P29617",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1027,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0060255",
+                    "label": "regulation of macromolecule metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 5.425802997858672,
+                    "expected": 2.0273496852615587,
+                    "pValue": 0.0025545229306044416,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "Q9VL91",
+                        "P18491",
+                        "P11536",
+                        "P32030",
+                        "P22265",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P29617",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 934,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0051171",
+                    "label": "regulation of nitrogen compound metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 5.437446351931331,
+                    "expected": 2.0230084653787714,
+                    "pValue": 0.0025013271747520833,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "Q9VL91",
+                        "P18491",
+                        "P11536",
+                        "P32030",
+                        "P22265",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P29617",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 932,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0010468",
+                    "label": "regulation of gene expression"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 5.414209401709402,
+                    "expected": 2.0316909051443455,
+                    "pValue": 0.0026087161841153368,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "Q9VL91",
+                        "P18491",
+                        "P11536",
+                        "P32030",
+                        "P22265",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P29617",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 936,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0010556",
+                    "label": "regulation of macromolecule biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 5.385441020191285,
+                    "expected": 2.0425439548513133,
+                    "pValue": 0.0027486697300567815,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "Q9VL91",
+                        "P18491",
+                        "P11536",
+                        "P32030",
+                        "P22265",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P29617",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 941,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0031326",
+                    "label": "regulation of cellular biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 4.891602316602317,
+                    "expected": 2.2487518992836986,
+                    "pValue": 0.007011679904092938,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "Q9VL91",
+                        "P18491",
+                        "P11536",
+                        "P32030",
+                        "P22265",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P29617",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1036,
+                "term": {
+                    "level": 6,
+                    "id": "GO:0031323",
+                    "label": "regulation of cellular metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 13,
+                    "fold_enrichment": 3.5905875299760193,
+                    "expected": 3.6205773822444107,
+                    "pValue": 0.021931910210696536,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P18491",
+                        "P11536",
+                        "A0A0B4K765",
+                        "P35415",
+                        "Q9XZ56",
+                        "Q9VL91",
+                        "P32030",
+                        "P22265",
+                        "P23128",
+                        "P29617",
+                        "P25724"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1668,
+                "term": {
+                    "level": 7,
+                    "id": "GO:0050794",
+                    "label": "regulation of cellular process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 5.36832627118644,
+                    "expected": 2.049055784675494,
+                    "pValue": 0.0028357899614417687,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "Q9VL91",
+                        "P18491",
+                        "P11536",
+                        "P32030",
+                        "P22265",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P29617",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 944,
+                "term": {
+                    "level": 6,
+                    "id": "GO:0009889",
+                    "label": "regulation of biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 49.36071428571428,
+                    "expected": 0.06077707835901889,
+                    "pValue": 0.0355000647073177,
+                    "mapped_id_list": {"mapped_id": [
+                        "P23128",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 28,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0051248",
+                    "label": "negative regulation of protein metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 12.941011235955056,
+                    "expected": 0.3863685695680486,
+                    "pValue": 0.04477524171725475,
+                    "mapped_id_list": {"mapped_id": [
+                        "P18491",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 178,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0010605",
+                    "label": "negative regulation of macromolecule metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 23.035,
+                    "expected": 0.21706099413935315,
+                    "pValue": 0.0026958000956269507,
+                    "mapped_id_list": {"mapped_id": [
+                        "P18491",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 100,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0051172",
+                    "label": "negative regulation of nitrogen compound metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 14.957792207792206,
+                    "expected": 0.3342739309746039,
+                    "pValue": 0.022307004494606875,
+                    "mapped_id_list": {"mapped_id": [
+                        "P18491",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 154,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0010558",
+                    "label": "negative regulation of macromolecule biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 14.766025641025642,
+                    "expected": 0.3386151508573909,
+                    "pValue": 0.023741884492640215,
+                    "mapped_id_list": {"mapped_id": [
+                        "P18491",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 156,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0031327",
+                    "label": "negative regulation of cellular biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 12.797222222222222,
+                    "expected": 0.3907097894508357,
+                    "pValue": 0.04723474008587118,
+                    "mapped_id_list": {"mapped_id": [
+                        "P18491",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 180,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0031324",
+                    "label": "negative regulation of cellular metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 14.766025641025642,
+                    "expected": 0.3386151508573909,
+                    "pValue": 0.023741884492640215,
+                    "mapped_id_list": {"mapped_id": [
+                        "P18491",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 156,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0009890",
+                    "label": "negative regulation of biosynthetic process"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 13.55,
+                    "expected": 0.36900369003690037,
+                    "pValue": 0.03591470977539036,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "P18491",
+                        "P11536",
+                        "P32030",
+                        "P25724"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 170,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0030154",
+                    "label": "cell differentiation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 13.55,
+                    "expected": 0.36900369003690037,
+                    "pValue": 0.03591470977539036,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "P18491",
+                        "P11536",
+                        "P32030",
+                        "P25724"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 170,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0048869",
+                    "label": "cellular developmental process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 10.205379746835444,
+                    "expected": 0.685912741480356,
+                    "pValue": 0.004821065315436466,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P18491",
+                        "P11536",
+                        "P32030",
+                        "P25724",
+                        "P35415"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 316,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0032502",
+                    "label": "developmental process"
+                }
+            }
+        ]},
+        {"result": {
+            "input_list": {
+                "number_in_list": 6,
+                "fold_enrichment": 0.3427402355858648,
+                "expected": 17.505969177338834,
+                "pValue": 0,
+                "mapped_id_list": {"mapped_id": [
+                    "O01404",
+                    "Q9U915",
+                    "Q9V431",
+                    "P11147",
+                    "P29845",
+                    "P12982"
+                ]},
+                "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                "plus_minus": "-"
+            },
+            "number_in_reference": 8065,
+            "term": {"label": "UNCLASSIFIED"}
+        }}
+    ]
+}}

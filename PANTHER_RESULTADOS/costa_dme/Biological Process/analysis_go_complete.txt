@@ -1,0 +1,32 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16
+Analyzed List:	Client Text Box Input (Drosophila melanogaster)
+Reference List:	Drosophila melanogaster (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	3409
+GO biological process complete	Drosophila melanogaster - REFLIST (13821)	Client Text Box Input (30)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+leg disc proximal/distal pattern formation (GO:0007479)	16	3	.03	+	86.38	1.73E-02
+proximal/distal pattern formation, imaginal disc (GO:0007449)	19	3	.04	+	72.74	2.98E-02
+leg disc pattern formation (GO:0035223)	20	3	.04	+	69.11	3.50E-02
+R7 cell differentiation (GO:0045466)	52	4	.11	+	35.44	1.55E-02
+negative regulation of macromolecule biosynthetic process (GO:0010558)	637	9	1.38	+	6.51	1.81E-02
+negative regulation of biosynthetic process (GO:0009890)	651	9	1.41	+	6.37	2.16E-02
+negative regulation of macromolecule metabolic process (GO:0010605)	712	9	1.55	+	5.82	4.46E-02
+cell differentiation (GO:0030154)	1550	16	3.36	+	4.76	6.19E-05
+cellular developmental process (GO:0048869)	1552	16	3.37	+	4.75	6.31E-05
+anatomical structure morphogenesis (GO:0009653)	1455	14	3.16	+	4.43	1.88E-03
+cell development (GO:0048468)	1293	12	2.81	+	4.28	2.54E-02
+regulation of primary metabolic process (GO:0080090)	1656	14	3.59	+	3.89	9.11E-03
+multicellular organism development (GO:0007275)	2062	16	4.48	+	3.57	3.50E-03
+regulation of macromolecule metabolic process (GO:0060255)	1860	14	4.04	+	3.47	3.64E-02
+regulation of metabolic process (GO:0019222)	2024	15	4.39	+	3.41	1.73E-02
+anatomical structure development (GO:0048856)	2507	18	5.44	+	3.31	1.35E-03
+developmental process (GO:0032502)	2647	18	5.75	+	3.13	3.13E-03
+regulation of cellular process (GO:0050794)	3782	20	8.21	+	2.44	2.74E-02
+biological regulation (GO:0065007)	4215	22	9.15	+	2.40	5.59E-03

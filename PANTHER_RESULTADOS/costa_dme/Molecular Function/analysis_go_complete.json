@@ -1,0 +1,287 @@
+{"overrepresentation": {
+    "bonferroni_correction": 1494,
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Drosophila melanogaster",
+        "list_name": "Client Text Box Input"
+    }},
+    "tool_release_date": 20240807,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16",
+    "annotation_type": "GO molecular function complete",
+    "correction": "BONFERRONI",
+    "test_type": "FISHER",
+    "group": [
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 33.50545454545454,
+                    "expected": 0.11938354677664424,
+                    "pValue": 0.008509052977691164,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9V3C0",
+                        "Q9Y134",
+                        "Q9V3C4",
+                        "P23128"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 55,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0003724",
+                    "label": "RNA helicase activity"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 32.90714285714285,
+                    "expected": 0.12155415671803778,
+                    "pValue": 0.009149803062310606,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9V3C0",
+                        "Q9Y134",
+                        "Q9V3C4",
+                        "P23128"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 56,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0008186",
+                    "label": "ATP-dependent activity, acting on RNA"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 8.04214463840399,
+                    "expected": 0.8704145864988062,
+                    "pValue": 0.02803266463838871,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9V3C0",
+                        "Q9Y134",
+                        "Q9V3C4",
+                        "P11147",
+                        "P23128",
+                        "P29845",
+                        "Q7KKI0"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 401,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0140657",
+                    "label": "ATP-dependent activity"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 22.20240963855422,
+                    "expected": 0.1801606251356631,
+                    "pValue": 0.04395386020079931,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9V3C0",
+                        "Q9Y134",
+                        "Q9V3C4",
+                        "P23128"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 83,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0004386",
+                    "label": "helicase activity"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 9,
+                    "fold_enrichment": 5.255133079847909,
+                    "expected": 1.7126112437594965,
+                    "pValue": 0.0443322137745183,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9V3C0",
+                        "Q9U915",
+                        "Q9Y134",
+                        "Q9V3C4",
+                        "Q9V3C2",
+                        "P11147",
+                        "P23128",
+                        "P29845",
+                        "Q7KKI0"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 789,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0035639",
+                    "label": "purine ribonucleoside triphosphate binding"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 25,
+                    "fold_enrichment": 2.1098186481040484,
+                    "expected": 11.849359670067289,
+                    "pValue": 0.0019885609115635025,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P0CG69",
+                        "Q9V431",
+                        "P11147",
+                        "P18489",
+                        "Q7KKI0",
+                        "Q9VL91",
+                        "P32030",
+                        "P23128",
+                        "P25724",
+                        "P29845",
+                        "O01404",
+                        "Q9Y134",
+                        "P18491",
+                        "P11536",
+                        "A0A0B4K765",
+                        "Q9XZ56",
+                        "P12982",
+                        "Q9V3C0",
+                        "Q9U915",
+                        "Q9V3C4",
+                        "Q9V3C2",
+                        "P22265",
+                        "P29617"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 5459,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0005488",
+                    "label": "binding"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 9,
+                    "fold_enrichment": 5.189361702127659,
+                    "expected": 1.7343173431734318,
+                    "pValue": 0.04897872862883544,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9V3C0",
+                        "Q9U915",
+                        "Q9Y134",
+                        "Q9V3C4",
+                        "Q9V3C2",
+                        "P11147",
+                        "P23128",
+                        "P29845",
+                        "Q7KKI0"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 799,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0032555",
+                    "label": "purine ribonucleotide binding"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 10,
+                    "fold_enrichment": 4.620862587763289,
+                    "expected": 2.164098111569351,
+                    "pValue": 0.043162621535028166,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "Q9V3C0",
+                        "Q9U915",
+                        "Q9Y134",
+                        "Q9V3C4",
+                        "Q9V3C2",
+                        "P11147",
+                        "P23128",
+                        "P29845",
+                        "Q7KKI0"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 997,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0097367",
+                    "label": "carbohydrate derivative binding"
+                }
+            }
+        ]},
+        {"result": {
+            "input_list": {
+                "number_in_list": 16,
+                "fold_enrichment": 3.1088991986503585,
+                "expected": 5.1465161710440634,
+                "pValue": 0.010228271035630985,
+                "mapped_id_list": {"mapped_id": [
+                    "Q94918",
+                    "P51023",
+                    "P0CG69",
+                    "P18491",
+                    "Q9V431",
+                    "P11147",
+                    "A0A0B4K765",
+                    "P18489",
+                    "Q9XZ56",
+                    "P12982",
+                    "Q7KKI0",
+                    "Q9V3C4",
+                    "P22265",
+                    "P23128",
+                    "P25724",
+                    "P29845"
+                ]},
+                "list_name": "Client Text Box Input",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 2371,
+            "term": {
+                "level": 0,
+                "id": "GO:0005515",
+                "label": "protein binding"
+            }
+        }},
+        {"result": {
+            "input_list": {
+                "number_in_list": 2,
+                "fold_enrichment": 0.3403768008865903,
+                "expected": 5.87584111135229,
+                "pValue": 0,
+                "mapped_id_list": {"mapped_id": [
+                    "Q7K2D2",
+                    "Q9U616"
+                ]},
+                "list_name": "Client Text Box Input",
+                "plus_minus": "-"
+            },
+            "number_in_reference": 2707,
+            "term": {"label": "UNCLASSIFIED"}
+        }}
+    ]
+}}

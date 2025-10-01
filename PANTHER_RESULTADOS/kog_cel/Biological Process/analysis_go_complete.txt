@@ -1,0 +1,60 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16
+Analyzed List:	Client Text Box Input (Caenorhabditis elegans)
+Reference List:	Caenorhabditis elegans (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	2441
+GO biological process complete	Caenorhabditis elegans - REFLIST (19826)	Client Text Box Input (398)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+transcription by RNA polymerase III (GO:0006383)	29	7	.58	+	12.02	3.24E-03
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process (GO:0031146)	31	7	.62	+	11.25	5.28E-03
+protein-containing complex localization (GO:0031503)	58	8	1.16	+	6.87	4.78E-02
+proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161)	135	14	2.71	+	5.17	1.41E-03
+protein transport (GO:0015031)	359	34	7.21	+	4.72	1.60E-10
+DNA-templated transcription (GO:0006351)	130	12	2.61	+	4.60	3.03E-02
+proteasomal protein catabolic process (GO:0010498)	180	16	3.61	+	4.43	1.83E-03
+protein localization (GO:0008104)	628	55	12.61	+	4.36	5.77E-17
+cellular macromolecule localization (GO:0070727)	629	55	12.63	+	4.36	6.21E-17
+establishment of protein localization (GO:0045184)	414	36	8.31	+	4.33	3.81E-10
+localization within membrane (GO:0051668)	161	14	3.23	+	4.33	1.17E-02
+establishment of organelle localization (GO:0051656)	167	14	3.35	+	4.18	1.79E-02
+nitrogen compound transport (GO:0071705)	542	42	10.88	+	3.86	1.69E-10
+macromolecule localization (GO:0033036)	767	58	15.40	+	3.77	5.39E-15
+cellular localization (GO:0051641)	903	68	18.13	+	3.75	5.12E-18
+modification-dependent macromolecule catabolic process (GO:0043632)	229	17	4.60	+	3.70	1.01E-02
+ubiquitin-dependent protein catabolic process (GO:0006511)	216	16	4.34	+	3.69	1.98E-02
+modification-dependent protein catabolic process (GO:0019941)	227	16	4.56	+	3.51	3.69E-02
+proteolysis involved in protein catabolic process (GO:0051603)	304	20	6.10	+	3.28	9.25E-03
+microtubule-based process (GO:0007017)	283	18	5.68	+	3.17	4.45E-02
+protein catabolic process (GO:0030163)	332	20	6.66	+	3.00	3.41E-02
+intracellular transport (GO:0046907)	439	26	8.81	+	2.95	2.43E-03
+macromolecule catabolic process (GO:0009057)	459	25	9.21	+	2.71	1.72E-02
+transport (GO:0006810)	1822	98	36.58	+	2.68	1.06E-16
+localization (GO:0051179)	2115	112	42.46	+	2.64	2.98E-19
+establishment of localization (GO:0051234)	1930	102	38.74	+	2.63	5.19E-17
+establishment of localization in cell (GO:0051649)	577	30	11.58	+	2.59	5.33E-03
+RNA biosynthetic process (GO:0032774)	627	31	12.59	+	2.46	1.61E-02
+gene expression (GO:0010467)	1177	58	23.63	+	2.45	5.49E-07
+nucleic acid biosynthetic process (GO:0141187)	669	32	13.43	+	2.38	1.64E-02
+RNA metabolic process (GO:0016070)	740	35	14.86	+	2.36	7.00E-03
+nucleobase-containing compound biosynthetic process (GO:0034654)	825	38	16.56	+	2.29	6.16E-03
+cellular component biogenesis (GO:0044085)	812	37	16.30	+	2.27	1.01E-02
+macromolecule biosynthetic process (GO:0009059)	1421	62	28.53	+	2.17	1.47E-05
+transmembrane transport (GO:0055085)	972	42	19.51	+	2.15	7.32E-03
+nucleobase-containing compound metabolic process (GO:0006139)	1292	55	25.94	+	2.12	3.74E-04
+biosynthetic process (GO:0009058)	1929	82	38.72	+	2.12	1.27E-07
+nucleic acid metabolic process (GO:0090304)	1014	43	20.36	+	2.11	1.10E-02
+cellular component organization or biogenesis (GO:0071840)	2023	78	40.61	+	1.92	3.22E-05
+primary metabolic process (GO:0044238)	3839	142	77.07	+	1.84	3.36E-11
+macromolecule metabolic process (GO:0043170)	2969	109	59.60	+	1.83	3.45E-07
+cellular component organization (GO:0016043)	1873	68	37.60	+	1.81	3.52E-03
+cellular process (GO:0009987)	8449	305	169.61	+	1.80	9.32E-41
+protein metabolic process (GO:0019538)	1914	68	38.42	+	1.77	7.18E-03
+metabolic process (GO:0008152)	4482	154	89.97	+	1.71	7.14E-10
+biological_process (GO:0008150)	9885	329	198.44	+	1.66	2.08E-39
+Unclassified (UNCLASSIFIED)	9941	69	199.56	-	.35	0.00E00

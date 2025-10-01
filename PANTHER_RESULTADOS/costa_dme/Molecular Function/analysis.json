@@ -1,0 +1,37 @@
+{"overrepresentation": {
+    "bonferroni_correction": 486,
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Drosophila melanogaster",
+        "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023"
+    }},
+    "tool_release_date": 20240807,
+    "data_version_release_date": "PANTHER version 19.0 Released 2024-06-20",
+    "annotation_type": "PANTHER GO-Slim Molecular Function",
+    "correction": "BONFERRONI",
+    "test_type": "FISHER",
+    "group": [
+        "",
+        {"result": {
+            "input_list": {
+                "number_in_list": 7,
+                "fold_enrichment": 0.39108658743633273,
+                "expected": 17.898849576731063,
+                "pValue": 0,
+                "mapped_id_list": {"mapped_id": [
+                    "O01404",
+                    "Q9Y134",
+                    "P18491",
+                    "P11147",
+                    "Q7K2D2",
+                    "Q9U616",
+                    "P29845"
+                ]},
+                "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                "plus_minus": "-"
+            },
+            "number_in_reference": 8246,
+            "term": {"label": "UNCLASSIFIED"}
+        }}
+    ]
+}}

@@ -1,0 +1,15 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	PANTHER version 19.0 Released 2024-06-20
+Analyzed List:	Client Text Box Input (Drosophila melanogaster)
+Reference List:	Drosophila melanogaster (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	486
+PANTHER GO-Slim Molecular Function	Drosophila melanogaster - REFLIST (13821)	Client Text Box Input (30)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+molecular_function (GO:0003674)	5575	23	12.10	+	1.90	4.72E-02
+Unclassified (UNCLASSIFIED)	8246	7	17.90	-	.39	0.00E00

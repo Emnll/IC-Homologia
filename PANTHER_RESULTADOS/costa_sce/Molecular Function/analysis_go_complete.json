@@ -1,0 +1,37 @@
+{"overrepresentation": {
+    "bonferroni_correction": 1233,
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Saccharomyces cerevisiae",
+        "list_name": "Client Text Box Input"
+    }},
+    "tool_release_date": 20240807,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16",
+    "annotation_type": "GO molecular function complete",
+    "correction": "BONFERRONI",
+    "test_type": "FISHER",
+    "group": {"result": {
+        "input_list": {
+            "number_in_list": 6,
+            "fold_enrichment": 23.012658227848103,
+            "expected": 0.2607260726072607,
+            "pValue": 1.6740488541901394E-4,
+            "mapped_id_list": {"mapped_id": [
+                "P53378",
+                "P32458",
+                "P02557",
+                "P09733",
+                "P32457",
+                "P32468"
+            ]},
+            "list_name": "Client Text Box Input",
+            "plus_minus": "+"
+        },
+        "number_in_reference": 20,
+        "term": {
+            "level": 0,
+            "id": "GO:0005200",
+            "label": "structural constituent of cytoskeleton"
+        }
+    }}
+}}

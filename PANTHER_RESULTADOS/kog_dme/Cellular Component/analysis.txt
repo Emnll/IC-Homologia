@@ -1,0 +1,16 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	PANTHER version 19.0 Released 2024-06-20
+Analyzed List:	Client Text Box Input (Drosophila melanogaster)
+Reference List:	Drosophila melanogaster (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	386
+PANTHER GO-Slim Cellular Component	Drosophila melanogaster - REFLIST (13821)	Client Text Box Input (156)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+organellar ribosome (GO:0000313)	32	5	.36	+	13.84	1.04E-02
+mitochondrial ribosome (GO:0005761)	32	5	.36	+	13.84	1.04E-02
+Unclassified (UNCLASSIFIED)	7656	78	86.41	-	.90	0.00E00

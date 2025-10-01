@@ -1,0 +1,119 @@
+{"overrepresentation": {
+    "bonferroni_correction": 386,
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Drosophila melanogaster",
+        "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023"
+    }},
+    "tool_release_date": 20240807,
+    "data_version_release_date": "PANTHER version 19.0 Released 2024-06-20",
+    "annotation_type": "PANTHER GO-Slim Cellular Component",
+    "correction": "BONFERRONI",
+    "test_type": "FISHER",
+    "group": [
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 22,
+                    "fold_enrichment": 2.3315850011502186,
+                    "expected": 9.435641415237681,
+                    "pValue": 0.0011280658094952871,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "P0CG69",
+                        "Q9Y134",
+                        "P18491",
+                        "P11536",
+                        "Q9V431",
+                        "P11147",
+                        "A0A0B4K765",
+                        "Q9U616",
+                        "P35415",
+                        "P18489",
+                        "Q9XZ56",
+                        "P12982",
+                        "Q9V3C0",
+                        "Q9VL91",
+                        "Q9U915",
+                        "Q9V3C4",
+                        "Q7K2D2",
+                        "P22265",
+                        "P23128",
+                        "P29617",
+                        "P25724"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 4347,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0005622",
+                    "label": "intracellular anatomical structure"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 25,
+                    "fold_enrichment": 1.9040337245825756,
+                    "expected": 13.130019535489472,
+                    "pValue": 0.007234073815345588,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P0CG69",
+                        "Q9V431",
+                        "P11147",
+                        "P35415",
+                        "P18489",
+                        "Q9VL91",
+                        "Q9VCT4",
+                        "Q7K2D2",
+                        "P23128",
+                        "P25724",
+                        "Q9Y134",
+                        "P18491",
+                        "P11536",
+                        "A0A0B4K765",
+                        "Q9U616",
+                        "Q9XZ56",
+                        "P12982",
+                        "Q9V3C0",
+                        "Q9U915",
+                        "Q9V3C4",
+                        "Q9V3C2",
+                        "P22265",
+                        "P29617"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 6049,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0110165",
+                    "label": "cellular anatomical entity"
+                }
+            }
+        ]},
+        {"result": {
+            "input_list": {
+                "number_in_list": 5,
+                "fold_enrichment": 0.30087513061650994,
+                "expected": 16.618189711308876,
+                "pValue": 0,
+                "mapped_id_list": {"mapped_id": [
+                    "O01404",
+                    "P32030",
+                    "Q9V3A4",
+                    "P29845",
+                    "Q7KKI0"
+                ]},
+                "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                "plus_minus": "-"
+            },
+            "number_in_reference": 7656,
+            "term": {"label": "UNCLASSIFIED"}
+        }}
+    ]
+}}

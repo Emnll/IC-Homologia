@@ -1,0 +1,21 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16
+Analyzed List:	Client Text Box Input (Drosophila melanogaster)
+Reference List:	Drosophila melanogaster (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1494
+GO molecular function complete	Drosophila melanogaster - REFLIST (13821)	Client Text Box Input (156)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+serine-type endopeptidase activity (GO:0004252)	211	15	2.38	+	6.30	2.34E-05
+endopeptidase activity (GO:0004175)	310	21	3.50	+	6.00	6.26E-08
+serine-type peptidase activity (GO:0008236)	230	15	2.60	+	5.78	7.42E-05
+serine hydrolase activity (GO:0017171)	291	16	3.28	+	4.87	2.77E-04
+peptidase activity (GO:0008233)	452	21	5.10	+	4.12	5.54E-05
+hydrolase activity (GO:0016787)	1538	40	17.36	+	2.30	7.03E-04
+catalytic activity, acting on a protein (GO:0140096)	1296	33	14.63	+	2.26	1.46E-02
+Unclassified (UNCLASSIFIED)	2707	16	30.55	-	.52	0.00E00

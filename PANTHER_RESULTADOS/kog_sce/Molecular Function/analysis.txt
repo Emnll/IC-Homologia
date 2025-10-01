@@ -1,0 +1,16 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	PANTHER version 19.0 Released 2024-06-20
+Analyzed List:	Client Text Box Input (Saccharomyces cerevisiae)
+Reference List:	Saccharomyces cerevisiae (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	379
+PANTHER GO-Slim Molecular Function	Saccharomyces cerevisiae - REFLIST (6060)	Client Text Box Input (223)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+binding (GO:0005488)	1029	66	37.87	+	1.74	6.76E-04
+molecular_function (GO:0003674)	2733	136	100.57	+	1.35	5.15E-04
+Unclassified (UNCLASSIFIED)	3327	87	122.43	-	.71	0.00E00

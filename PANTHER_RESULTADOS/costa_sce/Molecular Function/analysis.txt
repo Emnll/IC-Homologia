@@ -1,0 +1,17 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	PANTHER version 19.0 Released 2024-06-20
+Analyzed List:	Client Text Box Input (Saccharomyces cerevisiae)
+Reference List:	Saccharomyces cerevisiae (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	379
+PANTHER GO-Slim Molecular Function	Saccharomyces cerevisiae - REFLIST (6060)	Client Text Box Input (79)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+structural constituent of cytoskeleton (GO:0005200)	6	3	.08	+	38.35	1.57E-02
+binding (GO:0005488)	1029	29	13.41	+	2.16	9.41E-03
+molecular_function (GO:0003674)	2733	54	35.63	+	1.52	1.24E-02
+Unclassified (UNCLASSIFIED)	3327	25	43.37	-	.58	0.00E00

@@ -1,0 +1,598 @@
+{"overrepresentation": {
+    "bonferroni_correction": 3409,
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Drosophila melanogaster",
+        "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023"
+    }},
+    "tool_release_date": 20240807,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16",
+    "annotation_type": "GO biological process complete",
+    "correction": "BONFERRONI",
+    "test_type": "FISHER",
+    "group": [
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 86.38125,
+                    "expected": 0.03472975906229651,
+                    "pValue": 0.017285831148713304,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P22265"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 16,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0007479",
+                    "label": "leg disc proximal/distal pattern formation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 72.7421052631579,
+                    "expected": 0.0412415888864771,
+                    "pValue": 0.029779427612205506,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P22265"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 19,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0007449",
+                    "label": "proximal/distal pattern formation, imaginal disc"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 16,
+                    "fold_enrichment": 3.5747817652764304,
+                    "expected": 4.475797699153462,
+                    "pValue": 0.0034969424667427858,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P0CG69",
+                        "O01404",
+                        "P18491",
+                        "P11147",
+                        "A0A0B4K765",
+                        "P35415",
+                        "P12982",
+                        "Q9VCT4",
+                        "P32030",
+                        "Q7K2D2",
+                        "P22265",
+                        "P23128",
+                        "P29617",
+                        "P25724"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 2062,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0007275",
+                    "label": "multicellular organism development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 18,
+                    "fold_enrichment": 3.3077782209812527,
+                    "expected": 5.441719123073583,
+                    "pValue": 0.0013484260369174275,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P0CG69",
+                        "O01404",
+                        "P18491",
+                        "P11536",
+                        "P11147",
+                        "A0A0B4K765",
+                        "P35415",
+                        "P12982",
+                        "Q9VCT4",
+                        "P32030",
+                        "Q7K2D2",
+                        "P22265",
+                        "P23128",
+                        "P29617",
+                        "Q9V3A4",
+                        "P25724"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 2507,
+                "term": {
+                    "level": 6,
+                    "id": "GO:0048856",
+                    "label": "anatomical structure development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 18,
+                    "fold_enrichment": 3.1328296184359656,
+                    "expected": 5.745604514868678,
+                    "pValue": 0.003131719720120248,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P0CG69",
+                        "O01404",
+                        "P18491",
+                        "P11536",
+                        "P11147",
+                        "A0A0B4K765",
+                        "P35415",
+                        "P12982",
+                        "Q9VCT4",
+                        "P32030",
+                        "Q7K2D2",
+                        "P22265",
+                        "P23128",
+                        "P29617",
+                        "Q9V3A4",
+                        "P25724"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 2647,
+                "term": {
+                    "level": 7,
+                    "id": "GO:0032502",
+                    "label": "developmental process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 69.105,
+                    "expected": 0.04341219882787063,
+                    "pValue": 0.0349833113560814,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P22265"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 20,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0035223",
+                    "label": "leg disc pattern formation"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 35.43846153846154,
+                    "expected": 0.11287171695246363,
+                    "pValue": 0.015481893742702021,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "P18491",
+                        "Q9VCT4",
+                        "P29617"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 52,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0045466",
+                    "label": "R7 cell differentiation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 14,
+                    "fold_enrichment": 4.432852233676976,
+                    "expected": 3.1582374647275886,
+                    "pValue": 0.0018782142000485366,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P0CG69",
+                        "O01404",
+                        "P18491",
+                        "P11147",
+                        "P35415",
+                        "P12982",
+                        "Q9VCT4",
+                        "P32030",
+                        "P22265",
+                        "P23128",
+                        "P29617",
+                        "P25724"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1455,
+                "term": {
+                    "level": 6,
+                    "id": "GO:0009653",
+                    "label": "anatomical structure morphogenesis"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 16,
+                    "fold_enrichment": 4.755612903225806,
+                    "expected": 3.3644454091599743,
+                    "pValue": 6.194104747018246E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P0CG69",
+                        "P18491",
+                        "P11536",
+                        "P11147",
+                        "P35415",
+                        "P12982",
+                        "Q9VCT4",
+                        "P32030",
+                        "Q7K2D2",
+                        "P22265",
+                        "P23128",
+                        "P29617",
+                        "Q9V3A4",
+                        "P25724"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1550,
+                "term": {
+                    "level": 7,
+                    "id": "GO:0030154",
+                    "label": "cell differentiation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 16,
+                    "fold_enrichment": 4.749484536082474,
+                    "expected": 3.368786629042761,
+                    "pValue": 6.31047319756186E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P0CG69",
+                        "P18491",
+                        "P11536",
+                        "P11147",
+                        "P35415",
+                        "P12982",
+                        "Q9VCT4",
+                        "P32030",
+                        "Q7K2D2",
+                        "P22265",
+                        "P23128",
+                        "P29617",
+                        "Q9V3A4",
+                        "P25724"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1552,
+                "term": {
+                    "level": 8,
+                    "id": "GO:0048869",
+                    "label": "cellular developmental process"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 9,
+                    "fold_enrichment": 6.509105180533752,
+                    "expected": 1.3826785326676796,
+                    "pValue": 0.01809234101837971,
+                    "mapped_id_list": {"mapped_id": [
+                        "P18491",
+                        "P32030",
+                        "P11147",
+                        "P22265",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P29617",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 637,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0010558",
+                    "label": "negative regulation of macromolecule biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 9,
+                    "fold_enrichment": 6.369124423963134,
+                    "expected": 1.413067071847189,
+                    "pValue": 0.021597351115539377,
+                    "mapped_id_list": {"mapped_id": [
+                        "P18491",
+                        "P32030",
+                        "P11147",
+                        "P22265",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P29617",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 651,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0009890",
+                    "label": "negative regulation of biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 15,
+                    "fold_enrichment": 3.4142786561264815,
+                    "expected": 4.393314521380509,
+                    "pValue": 0.017294697143158507,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "P18491",
+                        "P11536",
+                        "P11147",
+                        "A0A0B4K765",
+                        "Q9XZ56",
+                        "P12982",
+                        "Q9VL91",
+                        "Q9V3C2",
+                        "P32030",
+                        "P22265",
+                        "P23128",
+                        "P29617",
+                        "Q9V3A4",
+                        "P25724"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 2024,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0019222",
+                    "label": "regulation of metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 20,
+                    "fold_enrichment": 2.436277102062401,
+                    "expected": 8.209246798350337,
+                    "pValue": 0.027429135888457603,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P18491",
+                        "P11536",
+                        "Q9V431",
+                        "P11147",
+                        "A0A0B4K765",
+                        "P35415",
+                        "P18489",
+                        "Q9XZ56",
+                        "P12982",
+                        "Q9VL91",
+                        "Q9V3C2",
+                        "P32030",
+                        "Q7K2D2",
+                        "P22265",
+                        "P23128",
+                        "P29617",
+                        "Q9V3A4",
+                        "P25724"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 3782,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0050794",
+                    "label": "regulation of cellular process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 22,
+                    "fold_enrichment": 2.4046026097271644,
+                    "expected": 9.149120902973737,
+                    "pValue": 0.005594426023969854,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "O01404",
+                        "P18491",
+                        "P11536",
+                        "Q9V431",
+                        "P11147",
+                        "A0A0B4K765",
+                        "P35415",
+                        "P18489",
+                        "Q9XZ56",
+                        "P12982",
+                        "Q9VL91",
+                        "Q9V3C2",
+                        "P32030",
+                        "Q7K2D2",
+                        "P22265",
+                        "P23128",
+                        "P29617",
+                        "Q9V3A4",
+                        "P25724",
+                        "P29845"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 4215,
+                "term": {
+                    "level": 6,
+                    "id": "GO:0065007",
+                    "label": "biological regulation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 14,
+                    "fold_enrichment": 3.4676344086021507,
+                    "expected": 4.037334490991968,
+                    "pValue": 0.03638059786356812,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "P18491",
+                        "P11536",
+                        "P11147",
+                        "A0A0B4K765",
+                        "Q9XZ56",
+                        "P12982",
+                        "Q9VL91",
+                        "Q9V3C2",
+                        "P32030",
+                        "P22265",
+                        "P23128",
+                        "P29617",
+                        "P25724"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1860,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0060255",
+                    "label": "regulation of macromolecule metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 9,
+                    "fold_enrichment": 5.8234550561797755,
+                    "expected": 1.5454742782721944,
+                    "pValue": 0.04456776286824695,
+                    "mapped_id_list": {"mapped_id": [
+                        "P18491",
+                        "P32030",
+                        "P11147",
+                        "P22265",
+                        "P23128",
+                        "A0A0B4K765",
+                        "P29617",
+                        "P25724",
+                        "Q9XZ56"
+                    ]},
+                    "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 712,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0010605",
+                    "label": "negative regulation of macromolecule metabolic process"
+                }
+            }
+        ]},
+        {"result": {
+            "input_list": {
+                "number_in_list": 12,
+                "fold_enrichment": 4.275638051044084,
+                "expected": 2.806598654221836,
+                "pValue": 0.025447027263062486,
+                "mapped_id_list": {"mapped_id": [
+                    "P51023",
+                    "P0CG69",
+                    "P18491",
+                    "P11536",
+                    "P11147",
+                    "Q7K2D2",
+                    "P23128",
+                    "P29617",
+                    "Q9V3A4",
+                    "P25724",
+                    "P35415",
+                    "P12982"
+                ]},
+                "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 1293,
+            "term": {
+                "level": 0,
+                "id": "GO:0048468",
+                "label": "cell development"
+            }
+        }},
+        {"result": {
+            "input_list": {
+                "number_in_list": 14,
+                "fold_enrichment": 3.8948067632850236,
+                "expected": 3.5945300629476886,
+                "pValue": 0.00910691216983681,
+                "mapped_id_list": {"mapped_id": [
+                    "P51023",
+                    "P18491",
+                    "P11536",
+                    "A0A0B4K765",
+                    "Q9XZ56",
+                    "P12982",
+                    "Q9VL91",
+                    "Q9V3C2",
+                    "P32030",
+                    "P22265",
+                    "P23128",
+                    "P29617",
+                    "Q9V3A4",
+                    "P25724"
+                ]},
+                "list_name": "P32030,Q9XZ56,Q9V3A4,P23128,Q9V431,Q9VL91,Q9Y134,A0A0B4K765,Q7K2D2,P22265,Q7KKI0,P29845,P18489,Q9V3C4,P11536,P0CG69,Q9V3C0,P18491,O01404,P35415,Q9V3C2,Q94918,Q9U616,Q9U915,P25724,P11147,P12982,P29617,Q9VCT4,P51023",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 1656,
+            "term": {
+                "level": 0,
+                "id": "GO:0080090",
+                "label": "regulation of primary metabolic process"
+            }
+        }}
+    ]
+}}

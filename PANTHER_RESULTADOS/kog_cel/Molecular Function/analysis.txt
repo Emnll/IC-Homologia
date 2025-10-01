@@ -1,0 +1,21 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	PANTHER version 19.0 Released 2024-06-20
+Analyzed List:	Client Text Box Input (Caenorhabditis elegans)
+Reference List:	Caenorhabditis elegans (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	478
+PANTHER GO-Slim Molecular Function	Caenorhabditis elegans - REFLIST (19826)	Client Text Box Input (398)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+mannosyltransferase activity (GO:0000030)	11	4	.22	+	18.11	2.26E-02
+heat shock protein binding (GO:0031072)	13	4	.26	+	15.33	4.74E-02
+cullin family protein binding (GO:0097602)	27	7	.54	+	12.91	3.74E-04
+protein binding (GO:0005515)	763	36	15.32	+	2.35	1.02E-03
+binding (GO:0005488)	2237	90	44.91	+	2.00	3.45E-08
+molecular_function (GO:0003674)	5827	202	116.97	+	1.73	1.00E-16
+catalytic activity (GO:0003824)	2790	86	56.01	+	1.54	1.93E-02
+Unclassified (UNCLASSIFIED)	13999	196	281.03	-	.70	0.00E00

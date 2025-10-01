@@ -1,0 +1,23 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16
+Analyzed List:	Client Text Box Input (Saccharomyces cerevisiae)
+Reference List:	Saccharomyces cerevisiae (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	687
+GO cellular component complete	Saccharomyces cerevisiae - REFLIST (6060)	Client Text Box Input (79)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+septin filament array (GO:0032160)	5	3	.07	+	46.03	1.44E-02
+supramolecular complex (GO:0099080)	267	13	3.48	+	3.73	2.35E-02
+nucleoplasm (GO:0005654)	292	14	3.81	+	3.68	1.34E-02
+protein-containing complex (GO:0032991)	2062	56	26.88	+	2.08	1.56E-08
+intracellular membraneless organelle (GO:0043232)	1459	39	19.02	+	2.05	6.31E-04
+membraneless organelle (GO:0043228)	1459	39	19.02	+	2.05	6.31E-04
+nucleus (GO:0005634)	2409	50	31.40	+	1.59	1.65E-02
+intracellular organelle (GO:0043229)	4754	77	61.97	+	1.24	1.04E-03
+organelle (GO:0043226)	4756	77	62.00	+	1.24	1.71E-03
+intracellular anatomical structure (GO:0005622)	5300	79	69.09	+	1.14	3.02E-02

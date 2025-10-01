@@ -1,0 +1,334 @@
+{"overrepresentation": {
+    "bonferroni_correction": 1494,
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Drosophila melanogaster",
+        "list_name": "Client Text Box Input"
+    }},
+    "tool_release_date": 20240807,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16",
+    "annotation_type": "GO molecular function complete",
+    "correction": "BONFERRONI",
+    "test_type": "FISHER",
+    "group": [
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 15,
+                    "fold_enrichment": 6.298304775792927,
+                    "expected": 2.381593227696983,
+                    "pValue": 2.3441709944235383E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9W314",
+                        "Q8MRL2",
+                        "Q7K3Y1",
+                        "Q9W1X6",
+                        "Q7KT95",
+                        "Q9VBC7",
+                        "Q9W5U8",
+                        "Q9VPN7",
+                        "A1Z7M7",
+                        "Q9V3J7",
+                        "Q7JPN9",
+                        "Q9VKA9",
+                        "Q9VXP8",
+                        "Q9VQA0",
+                        "Q9VER6"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 211,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0004252",
+                    "label": "serine-type endopeptidase activity"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 15,
+                    "fold_enrichment": 5.778010033444817,
+                    "expected": 2.5960494899066635,
+                    "pValue": 7.42249428530075E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9W314",
+                        "Q8MRL2",
+                        "Q7K3Y1",
+                        "Q9W1X6",
+                        "Q7KT95",
+                        "Q9VBC7",
+                        "Q9W5U8",
+                        "Q9VPN7",
+                        "A1Z7M7",
+                        "Q9V3J7",
+                        "Q7JPN9",
+                        "Q9VKA9",
+                        "Q9VXP8",
+                        "Q9VQA0",
+                        "Q9VER6"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 230,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0008236",
+                    "label": "serine-type peptidase activity"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 16,
+                    "fold_enrichment": 4.871266190853819,
+                    "expected": 3.284566963316692,
+                    "pValue": 2.7716676061706117E-4,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9W314",
+                        "Q8MRL2",
+                        "Q7K3Y1",
+                        "Q9W1X6",
+                        "Q7KT95",
+                        "Q9VBC7",
+                        "Q9W5U8",
+                        "O18391",
+                        "Q9VPN7",
+                        "A1Z7M7",
+                        "Q9V3J7",
+                        "Q7JPN9",
+                        "Q9VKA9",
+                        "Q9VXP8",
+                        "Q9VQA0",
+                        "Q9VER6"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 291,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0017171",
+                    "label": "serine hydrolase activity"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 40,
+                    "fold_enrichment": 2.3041912573772128,
+                    "expected": 17.35967006728891,
+                    "pValue": 7.031804202061113E-4,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9V3R0",
+                        "Q9W0Q0",
+                        "Q9W0S3",
+                        "Q9VQU3",
+                        "Q9VXS8",
+                        "Q9VBC7",
+                        "Q9VPQ7",
+                        "Q7K3X8",
+                        "Q9W5U8",
+                        "O18391",
+                        "Q7KKI0",
+                        "Q9V3J7",
+                        "Q7JPN9",
+                        "Q9XZ28",
+                        "Q9VKA9",
+                        "Q9VQA0",
+                        "Q9VER6",
+                        "Q9W5X0",
+                        "Q9W314",
+                        "Q8MRL2",
+                        "Q7K3Y1",
+                        "Q9W1X6",
+                        "Q9VLN0",
+                        "Q9V445",
+                        "Q9V421",
+                        "Q9W0R3",
+                        "Q9VLP5",
+                        "Q9V3M3",
+                        "Q7KT95",
+                        "Q9W2L6",
+                        "Q9V3M2",
+                        "Q9V402",
+                        "Q9V3I1",
+                        "Q9VPN7",
+                        "A1Z7M7",
+                        "Q9VB46",
+                        "Q9VXP8",
+                        "Q9VMW7",
+                        "A1Z7K9",
+                        "Q7JMZ0"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1538,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0016787",
+                    "label": "hydrolase activity"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 21,
+                    "fold_enrichment": 4.1161929884275015,
+                    "expected": 5.101801606251357,
+                    "pValue": 5.542991396148195E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9V3R0",
+                        "Q9W314",
+                        "Q8MRL2",
+                        "Q7K3Y1",
+                        "Q9W1X6",
+                        "Q9V445",
+                        "Q9V421",
+                        "Q9V3M3",
+                        "Q7KT95",
+                        "Q9VBC7",
+                        "Q9V402",
+                        "Q9VPQ7",
+                        "Q9W5U8",
+                        "Q9VPN7",
+                        "A1Z7M7",
+                        "Q9V3J7",
+                        "Q7JPN9",
+                        "Q9VKA9",
+                        "Q9VXP8",
+                        "Q9VQA0",
+                        "Q9VER6"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 452,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0008233",
+                    "label": "peptidase activity"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 33,
+                    "fold_enrichment": 2.255920584045584,
+                    "expected": 14.628174517039287,
+                    "pValue": 0.014586002566398049,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9V3R0",
+                        "Q9W501",
+                        "Q9V6X7",
+                        "Q9W0Q0",
+                        "Q9W0S3",
+                        "Q9VJE3",
+                        "Q9VBC7",
+                        "Q9VPQ7",
+                        "Q9W5U8",
+                        "Q9XZS4",
+                        "Q9V3J7",
+                        "Q7JPN9",
+                        "Q9XZ28",
+                        "Q9VKA9",
+                        "Q9VQA0",
+                        "Q9VER6",
+                        "Q9VL34",
+                        "Q9VJ14",
+                        "Q9W532",
+                        "Q9W314",
+                        "Q9VKN8",
+                        "Q8MRL2",
+                        "Q7K3Y1",
+                        "Q9W1X6",
+                        "Q9V445",
+                        "Q9V421",
+                        "Q9W0R3",
+                        "Q9V3M3",
+                        "Q7KT95",
+                        "Q9V402",
+                        "Q9VPN7",
+                        "A1Z7M7",
+                        "Q9VXP8"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1296,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0140096",
+                    "label": "catalytic activity, acting on a protein"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 21,
+                    "fold_enrichment": 6.001674937965261,
+                    "expected": 3.4990232255263725,
+                    "pValue": 6.262726658491523E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9V3R0",
+                        "Q9W314",
+                        "Q8MRL2",
+                        "Q7K3Y1",
+                        "Q9W1X6",
+                        "Q9V445",
+                        "Q9V421",
+                        "Q9V3M3",
+                        "Q7KT95",
+                        "Q9VBC7",
+                        "Q9V402",
+                        "Q9VPQ7",
+                        "Q9W5U8",
+                        "Q9VPN7",
+                        "A1Z7M7",
+                        "Q9V3J7",
+                        "Q7JPN9",
+                        "Q9VKA9",
+                        "Q9VXP8",
+                        "Q9VQA0",
+                        "Q9VER6"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 310,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0004175",
+                    "label": "endopeptidase activity"
+                }
+            }
+        ]},
+        {"result": {
+            "input_list": {
+                "number_in_list": 16,
+                "fold_enrichment": 0.5236566167486004,
+                "expected": 30.55437377903191,
+                "pValue": 0,
+                "mapped_id_list": {"mapped_id": [
+                    "Q9VLK1",
+                    "Q9VR55",
+                    "Q9V430",
+                    "Q9V3W2",
+                    "Q9VKP5",
+                    "Q9VK18",
+                    "Q9W376",
+                    "Q9W2S3",
+                    "Q7K2N0",
+                    "Q9VZH2",
+                    "Q9VX09",
+                    "Q9VXC5",
+                    "Q9VJZ8",
+                    "Q9VT91",
+                    "Q9VQY5",
+                    "A1Z7H7"
+                ]},
+                "list_name": "Client Text Box Input",
+                "plus_minus": "-"
+            },
+            "number_in_reference": 2707,
+            "term": {"label": "UNCLASSIFIED"}
+        }}
+    ]
+}}

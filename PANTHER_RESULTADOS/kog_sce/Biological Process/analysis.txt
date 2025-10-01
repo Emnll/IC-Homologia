@@ -1,0 +1,18 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	PANTHER version 19.0 Released 2024-06-20
+Analyzed List:	Client Text Box Input (Saccharomyces cerevisiae)
+Reference List:	Saccharomyces cerevisiae (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	822
+PANTHER GO-Slim Biological Process	Saccharomyces cerevisiae - REFLIST (6060)	Client Text Box Input (223)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+cell differentiation (GO:0030154)	11	5	.40	+	12.35	2.04E-02
+cellular developmental process (GO:0048869)	11	5	.40	+	12.35	2.04E-02
+protein metabolic process (GO:0019538)	624	47	22.96	+	2.05	1.15E-03
+macromolecule metabolic process (GO:0043170)	1153	68	42.43	+	1.60	2.14E-02
+Unclassified (UNCLASSIFIED)	3196	91	117.61	-	.77	0.00E00

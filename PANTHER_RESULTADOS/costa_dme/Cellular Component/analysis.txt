@@ -1,0 +1,17 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	PANTHER version 19.0 Released 2024-06-20
+Analyzed List:	Client Text Box Input (Drosophila melanogaster)
+Reference List:	Drosophila melanogaster (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	386
+PANTHER GO-Slim Cellular Component	Drosophila melanogaster - REFLIST (13821)	Client Text Box Input (30)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+intracellular anatomical structure (GO:0005622)	4347	22	9.44	+	2.33	1.13E-03
+cellular anatomical entity (GO:0110165)	6049	25	13.13	+	1.90	7.23E-03
+cellular_component (GO:0005575)	6165	25	13.38	+	1.87	8.02E-03
+Unclassified (UNCLASSIFIED)	7656	5	16.62	-	.30	0.00E00

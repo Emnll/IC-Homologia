@@ -1,0 +1,40 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	PANTHER version 19.0 Released 2024-06-20
+Analyzed List:	Client Text Box Input (Caenorhabditis elegans)
+Reference List:	Caenorhabditis elegans (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	381
+PANTHER GO-Slim Cellular Component	Caenorhabditis elegans - REFLIST (19826)	Client Text Box Input (398)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+endoplasmic reticulum-Golgi intermediate compartment (GO:0005793)	20	6	.40	+	14.94	7.33E-04
+polymeric cytoskeletal fiber (GO:0099513)	74	8	1.49	+	5.39	4.44E-02
+nuclear outer membrane-endoplasmic reticulum membrane network (GO:0042175)	154	13	3.09	+	4.21	5.47E-03
+endoplasmic reticulum subcompartment (GO:0098827)	155	13	3.11	+	4.18	5.86E-03
+organelle subcompartment (GO:0031984)	185	15	3.71	+	4.04	1.99E-03
+endoplasmic reticulum (GO:0005783)	318	25	6.38	+	3.92	2.74E-06
+endoplasmic reticulum membrane (GO:0005789)	153	12	3.07	+	3.91	2.40E-02
+endomembrane system (GO:0012505)	686	43	13.77	+	3.12	1.54E-08
+mitochondrion (GO:0005739)	342	21	6.87	+	3.06	2.43E-03
+cytoskeleton (GO:0005856)	278	17	5.58	+	3.05	1.94E-02
+membrane-enclosed lumen (GO:0031974)	384	21	7.71	+	2.72	1.37E-02
+intracellular organelle lumen (GO:0070013)	384	21	7.71	+	2.72	1.37E-02
+organelle lumen (GO:0043233)	384	21	7.71	+	2.72	1.37E-02
+cytoplasm (GO:0005737)	2939	150	59.00	+	2.54	3.06E-27
+intracellular non-membrane-bounded organelle (GO:0043232)	788	39	15.82	+	2.47	1.15E-04
+non-membrane-bounded organelle (GO:0043228)	788	39	15.82	+	2.47	1.15E-04
+intracellular anatomical structure (GO:0005622)	4332	200	86.96	+	2.30	1.17E-33
+organelle (GO:0043226)	3390	145	68.05	+	2.13	3.28E-18
+intracellular organelle (GO:0043229)	3340	142	67.05	+	2.12	2.55E-17
+cellular anatomical entity (GO:0110165)	5921	248	118.86	+	2.09	5.54E-39
+cellular_component (GO:0005575)	6036	252	121.17	+	2.08	1.17E-39
+membrane-bounded organelle (GO:0043227)	3020	124	60.63	+	2.05	2.44E-13
+intracellular membrane-bounded organelle (GO:0043231)	2951	119	59.24	+	2.01	4.89E-12
+protein-containing complex (GO:0032991)	1612	62	32.36	+	1.92	2.43E-04
+nucleus (GO:0005634)	1767	63	35.47	+	1.78	2.68E-03
+membrane (GO:0016020)	2023	69	40.61	+	1.70	4.28E-03
+Unclassified (UNCLASSIFIED)	13790	146	276.83	-	.53	0.00E00

@@ -1,0 +1,20 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16
+Analyzed List:	Client Text Box Input (Drosophila melanogaster)
+Reference List:	Drosophila melanogaster (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	902
+GO cellular component complete	Drosophila melanogaster - REFLIST (13821)	Client Text Box Input (156)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+organellar large ribosomal subunit (GO:0000315)	50	8	.56	+	14.18	7.13E-05
+mitochondrial large ribosomal subunit (GO:0005762)	50	8	.56	+	14.18	7.13E-05
+organellar ribosome (GO:0000313)	81	8	.91	+	8.75	3.18E-03
+mitochondrial ribosome (GO:0005761)	81	8	.91	+	8.75	3.18E-03
+large ribosomal subunit (GO:0015934)	104	8	1.17	+	6.82	2.04E-02
+mitochondrial protein-containing complex (GO:0098798)	169	10	1.91	+	5.24	1.95E-02
+Unclassified (UNCLASSIFIED)	2380	32	26.86	+	1.19	0.00E00

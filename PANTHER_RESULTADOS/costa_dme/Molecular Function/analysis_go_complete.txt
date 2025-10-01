@@ -1,0 +1,23 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16
+Analyzed List:	Client Text Box Input (Drosophila melanogaster)
+Reference List:	Drosophila melanogaster (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1494
+GO molecular function complete	Drosophila melanogaster - REFLIST (13821)	Client Text Box Input (30)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+RNA helicase activity (GO:0003724)	55	4	.12	+	33.51	8.51E-03
+ATP-dependent activity, acting on RNA (GO:0008186)	56	4	.12	+	32.91	9.15E-03
+helicase activity (GO:0004386)	83	4	.18	+	22.20	4.40E-02
+ATP-dependent activity (GO:0140657)	401	7	.87	+	8.04	2.80E-02
+purine ribonucleoside triphosphate binding (GO:0035639)	789	9	1.71	+	5.26	4.43E-02
+purine ribonucleotide binding (GO:0032555)	799	9	1.73	+	5.19	4.90E-02
+carbohydrate derivative binding (GO:0097367)	997	10	2.16	+	4.62	4.32E-02
+protein binding (GO:0005515)	2371	16	5.15	+	3.11	1.02E-02
+binding (GO:0005488)	5459	25	11.85	+	2.11	1.99E-03
+Unclassified (UNCLASSIFIED)	2707	2	5.88	-	.34	0.00E00

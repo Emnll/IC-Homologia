@@ -1,0 +1,19 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16
+Analyzed List:	Client Text Box Input (Drosophila melanogaster)
+Reference List:	Drosophila melanogaster (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	902
+GO cellular component complete	Drosophila melanogaster - REFLIST (13821)	Client Text Box Input (30)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+neuron projection cytoplasm (GO:0120111)	19	3	.04	+	72.74	7.88E-03
+intracellular organelle (GO:0043229)	5821	25	12.64	+	1.98	5.38E-03
+membrane-bounded organelle (GO:0043227)	5388	23	11.70	+	1.97	3.35E-02
+organelle (GO:0043226)	5935	25	12.88	+	1.94	6.89E-03
+intracellular anatomical structure (GO:0005622)	6936	27	15.06	+	1.79	7.48E-03
+cellular anatomical structure (GO:0110165)	9677	30	21.00	+	1.43	2.65E-02

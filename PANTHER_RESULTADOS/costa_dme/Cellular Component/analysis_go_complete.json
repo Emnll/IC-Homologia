@@ -1,0 +1,260 @@
+{"overrepresentation": {
+    "bonferroni_correction": 902,
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Drosophila melanogaster",
+        "list_name": "Client Text Box Input"
+    }},
+    "tool_release_date": 20240807,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16",
+    "annotation_type": "GO cellular component complete",
+    "correction": "BONFERRONI",
+    "test_type": "FISHER",
+    "group": [
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 72.7421052631579,
+                    "expected": 0.0412415888864771,
+                    "pValue": 0.007879449605810903,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q7K2D2",
+                        "P23128",
+                        "P25724"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 19,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0120111",
+                    "label": "neuron projection cytoplasm"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 27,
+                    "fold_enrichment": 1.7933823529411765,
+                    "expected": 15.055350553505534,
+                    "pValue": 0.007480525221195103,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "P0CG69",
+                        "Q9V431",
+                        "P11147",
+                        "P35415",
+                        "P18489",
+                        "Q7KKI0",
+                        "Q9VL91",
+                        "P32030",
+                        "Q7K2D2",
+                        "P23128",
+                        "P25724",
+                        "P29845",
+                        "Q9Y134",
+                        "P18491",
+                        "P11536",
+                        "A0A0B4K765",
+                        "Q9U616",
+                        "Q9XZ56",
+                        "P12982",
+                        "Q9V3C0",
+                        "Q9U915",
+                        "Q9V3C4",
+                        "Q9V3C2",
+                        "P22265",
+                        "P29617",
+                        "Q9V3A4"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 6936,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0005622",
+                    "label": "intracellular anatomical structure"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 30,
+                    "fold_enrichment": 1.4282318900485689,
+                    "expected": 21.004992402865202,
+                    "pValue": 0.026549686254680415,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q94918",
+                        "P51023",
+                        "P0CG69",
+                        "Q9V431",
+                        "P11147",
+                        "P35415",
+                        "P18489",
+                        "Q7KKI0",
+                        "Q9VL91",
+                        "Q9VCT4",
+                        "P32030",
+                        "Q7K2D2",
+                        "P23128",
+                        "P25724",
+                        "P29845",
+                        "O01404",
+                        "Q9Y134",
+                        "P18491",
+                        "P11536",
+                        "A0A0B4K765",
+                        "Q9U616",
+                        "Q9XZ56",
+                        "P12982",
+                        "Q9V3C0",
+                        "Q9U915",
+                        "Q9V3C4",
+                        "Q9V3C2",
+                        "P22265",
+                        "P29617",
+                        "Q9V3A4"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 9677,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0110165",
+                    "label": "cellular anatomical structure"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 25,
+                    "fold_enrichment": 1.9786119223501117,
+                    "expected": 12.635120468851747,
+                    "pValue": 0.005381272049443407,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "P0CG69",
+                        "Q9V431",
+                        "P11147",
+                        "P35415",
+                        "P18489",
+                        "Q9VL91",
+                        "P32030",
+                        "Q7K2D2",
+                        "P23128",
+                        "P25724",
+                        "P29845",
+                        "Q9Y134",
+                        "P18491",
+                        "P11536",
+                        "A0A0B4K765",
+                        "Q9U616",
+                        "P12982",
+                        "Q9V3C0",
+                        "Q9U915",
+                        "Q9V3C4",
+                        "Q9V3C2",
+                        "P22265",
+                        "P29617",
+                        "Q9V3A4"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 5821,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0043229",
+                    "label": "intracellular organelle"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 25,
+                    "fold_enrichment": 1.9406065711878686,
+                    "expected": 12.88257000217061,
+                    "pValue": 0.0068924554355984,
+                    "mapped_id_list": {"mapped_id": [
+                        "P51023",
+                        "P0CG69",
+                        "Q9V431",
+                        "P11147",
+                        "P35415",
+                        "P18489",
+                        "Q9VL91",
+                        "P32030",
+                        "Q7K2D2",
+                        "P23128",
+                        "P25724",
+                        "P29845",
+                        "Q9Y134",
+                        "P18491",
+                        "P11536",
+                        "A0A0B4K765",
+                        "Q9U616",
+                        "P12982",
+                        "Q9V3C0",
+                        "Q9U915",
+                        "Q9V3C4",
+                        "Q9V3C2",
+                        "P22265",
+                        "P29617",
+                        "Q9V3A4"
+                    ]},
+                    "list_name": "Client Text Box Input",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 5935,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0043226",
+                    "label": "organelle"
+                }
+            }
+        ]},
+        {"result": {
+            "input_list": {
+                "number_in_list": 23,
+                "fold_enrichment": 1.9666109873793614,
+                "expected": 11.69524636422835,
+                "pValue": 0.03347399711119928,
+                "mapped_id_list": {"mapped_id": [
+                    "P51023",
+                    "P0CG69",
+                    "Q9Y134",
+                    "P18491",
+                    "P11536",
+                    "Q9V431",
+                    "P11147",
+                    "A0A0B4K765",
+                    "Q9U616",
+                    "P18489",
+                    "P12982",
+                    "Q9V3C0",
+                    "Q9VL91",
+                    "Q9U915",
+                    "Q9V3C4",
+                    "Q9V3C2",
+                    "P32030",
+                    "Q7K2D2",
+                    "P22265",
+                    "P23128",
+                    "P29617",
+                    "Q9V3A4",
+                    "P29845"
+                ]},
+                "list_name": "Client Text Box Input",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 5388,
+            "term": {
+                "level": 0,
+                "id": "GO:0043227",
+                "label": "membrane-bounded organelle"
+            }
+        }}
+    ]
+}}

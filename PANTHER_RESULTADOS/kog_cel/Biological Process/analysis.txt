@@ -1,0 +1,63 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	PANTHER version 19.0 Released 2024-06-20
+Analyzed List:	Client Text Box Input (Caenorhabditis elegans)
+Reference List:	Caenorhabditis elegans (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1170
+PANTHER GO-Slim Biological Process	Caenorhabditis elegans - REFLIST (19826)	Client Text Box Input (398)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+transcription by RNA polymerase III (GO:0006383)	17	5	.34	+	14.65	1.89E-02
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process (GO:0031146)	30	7	.60	+	11.62	1.99E-03
+establishment of organelle localization (GO:0051656)	41	8	.82	+	9.72	1.54E-03
+protein-containing complex localization (GO:0031503)	40	7	.80	+	8.72	1.53E-02
+protein transport (GO:0015031)	181	28	3.63	+	7.71	4.90E-14
+establishment of protein localization (GO:0045184)	222	29	4.46	+	6.51	1.38E-12
+cellular macromolecule localization (GO:0070727)	295	35	5.92	+	5.91	3.03E-14
+protein localization (GO:0008104)	295	35	5.92	+	5.91	3.03E-14
+proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161)	103	12	2.07	+	5.80	1.25E-03
+endomembrane system organization (GO:0010256)	89	10	1.79	+	5.60	1.38E-02
+nitrogen compound transport (GO:0071705)	306	32	6.14	+	5.21	2.75E-11
+cellular localization (GO:0051641)	469	47	9.42	+	4.99	8.79E-17
+macromolecule localization (GO:0033036)	372	37	7.47	+	4.95	1.19E-12
+proteasomal protein catabolic process (GO:0010498)	138	13	2.77	+	4.69	5.06E-03
+microtubule-based process (GO:0007017)	121	11	2.43	+	4.53	3.85E-02
+organic substance transport (GO:0071702)	398	34	7.99	+	4.26	1.48E-09
+ubiquitin-dependent protein catabolic process (GO:0006511)	171	14	3.43	+	4.08	1.12E-02
+modification-dependent protein catabolic process (GO:0019941)	182	14	3.65	+	3.83	2.28E-02
+modification-dependent macromolecule catabolic process (GO:0043632)	186	14	3.73	+	3.75	2.91E-02
+organophosphate metabolic process (GO:0019637)	282	21	5.66	+	3.71	3.40E-04
+proteolysis involved in protein catabolic process (GO:0051603)	251	18	5.04	+	3.57	4.10E-03
+protein catabolic process (GO:0030163)	260	18	5.22	+	3.45	6.71E-03
+intracellular transport (GO:0046907)	283	19	5.68	+	3.34	5.78E-03
+macromolecule catabolic process (GO:0009057)	329	22	6.60	+	3.33	1.11E-03
+establishment of localization in cell (GO:0051649)	316	21	6.34	+	3.31	2.16E-03
+transport (GO:0006810)	1097	69	22.02	+	3.13	2.01E-14
+establishment of localization (GO:0051234)	1146	71	23.01	+	3.09	1.42E-14
+localization (GO:0051179)	1220	74	24.49	+	3.02	8.31E-15
+cellular component biogenesis (GO:0044085)	377	22	7.57	+	2.91	1.01E-02
+organelle organization (GO:0006996)	568	29	11.40	+	2.54	5.39E-03
+cellular component organization or biogenesis (GO:0071840)	949	48	19.05	+	2.52	4.54E-06
+cellular component organization (GO:0016043)	852	42	17.10	+	2.46	1.20E-04
+gene expression (GO:0010467)	716	33	14.37	+	2.30	1.08E-02
+heterocycle metabolic process (GO:0046483)	829	36	16.64	+	2.16	2.19E-02
+cellular biosynthetic process (GO:0044249)	1184	51	23.77	+	2.15	3.21E-04
+macromolecule biosynthetic process (GO:0009059)	908	39	18.23	+	2.14	9.74E-03
+organic cyclic compound metabolic process (GO:1901360)	851	36	17.08	+	2.11	3.05E-02
+biosynthetic process (GO:0009058)	1207	51	24.23	+	2.10	7.48E-04
+organic substance biosynthetic process (GO:1901576)	1207	51	24.23	+	2.10	7.48E-04
+cellular process (GO:0009987)	4472	185	89.77	+	2.06	2.54E-23
+protein metabolic process (GO:0019538)	1162	48	23.33	+	2.06	2.62E-03
+organonitrogen compound metabolic process (GO:1901564)	1545	61	31.02	+	1.97	4.13E-04
+primary metabolic process (GO:0044238)	2361	93	47.40	+	1.96	1.31E-07
+nitrogen compound metabolic process (GO:0006807)	2144	84	43.04	+	1.95	1.70E-06
+biological_process (GO:0008150)	5981	232	120.07	+	1.93	1.49E-28
+macromolecule metabolic process (GO:0043170)	1845	71	37.04	+	1.92	1.25E-04
+organic substance metabolic process (GO:0071704)	2565	95	51.49	+	1.84	2.69E-06
+cellular metabolic process (GO:0044237)	2138	79	42.92	+	1.84	8.76E-05
+metabolic process (GO:0008152)	2730	100	54.80	+	1.82	1.19E-06
+Unclassified (UNCLASSIFIED)	13845	166	277.93	-	.60	0.00E00

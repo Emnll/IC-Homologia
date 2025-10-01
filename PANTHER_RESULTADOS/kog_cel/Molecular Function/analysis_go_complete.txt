@@ -1,0 +1,26 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16
+Analyzed List:	Client Text Box Input (Caenorhabditis elegans)
+Reference List:	Caenorhabditis elegans (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1278
+GO molecular function complete	Caenorhabditis elegans - REFLIST (19826)	Client Text Box Input (398)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+cytochrome-c oxidase activity (GO:0004129)	3	3	.06	+	49.81	1.03E-02
+bent DNA binding (GO:0003681)	3	3	.06	+	49.81	1.03E-02
+oxidoreductase activity, acting on a heme group of donors (GO:0016675)	3	3	.06	+	49.81	1.03E-02
+oxidoreduction-driven active transmembrane transporter activity (GO:0015453)	19	6	.38	+	15.73	1.75E-03
+cullin family protein binding (GO:0097602)	28	7	.56	+	12.45	1.31E-03
+electron transfer activity (GO:0009055)	31	7	.62	+	11.25	2.76E-03
+primary active transmembrane transporter activity (GO:0015399)	109	11	2.19	+	5.03	1.57E-02
+protein binding (GO:0005515)	2253	81	45.23	+	1.79	1.97E-04
+binding (GO:0005488)	5759	199	115.61	+	1.72	1.00E-15
+molecular_function (GO:0003674)	9810	307	196.93	+	1.56	5.61E-27
+ion binding (GO:0043167)	3061	93	61.45	+	1.51	4.05E-02
+small molecule binding (GO:0036094)	3160	96	63.44	+	1.51	2.77E-02
+Unclassified (UNCLASSIFIED)	10016	91	201.07	-	.45	0.00E00

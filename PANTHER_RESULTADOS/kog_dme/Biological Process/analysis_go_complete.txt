@@ -1,0 +1,24 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.15066566 Released 2025-03-16
+Analyzed List:	Client Text Box Input (Drosophila melanogaster)
+Reference List:	Drosophila melanogaster (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	3409
+GO biological process complete	Drosophila melanogaster - REFLIST (13821)	Client Text Box Input (156)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+mitochondrial translation (GO:0032543)	101	10	1.14	+	8.77	6.83E-04
+mitochondrial gene expression (GO:0140053)	131	10	1.48	+	6.76	7.68E-03
+proteolysis (GO:0006508)	823	34	9.29	+	3.66	9.35E-08
+protein metabolic process (GO:0019538)	1720	54	19.41	+	2.78	1.82E-09
+macromolecule metabolic process (GO:0043170)	2829	73	31.93	+	2.29	4.30E-10
+gene expression (GO:0010467)	1358	34	15.33	+	2.22	2.75E-02
+macromolecule biosynthetic process (GO:0009059)	1547	37	17.46	+	2.12	2.84E-02
+primary metabolic process (GO:0044238)	3716	80	41.94	+	1.91	3.98E-07
+metabolic process (GO:0008152)	4223	84	47.67	+	1.76	4.49E-06
+cellular process (GO:0009987)	8021	119	90.53	+	1.31	8.69E-03
+Unclassified (UNCLASSIFIED)	2490	20	28.11	-	.71	0.00E00

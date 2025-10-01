@@ -1,0 +1,31 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	PANTHER version 19.0 Released 2024-06-20
+Analyzed List:	Client Text Box Input (Saccharomyces cerevisiae)
+Reference List:	Saccharomyces cerevisiae (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	822
+PANTHER GO-Slim Biological Process	Saccharomyces cerevisiae - REFLIST (6060)	Client Text Box Input (79)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+cytoskeleton-dependent cytokinesis (GO:0061640)	9	4	.12	+	34.09	2.64E-03
+cytokinesis (GO:0000910)	10	4	.13	+	30.68	4.35E-03
+cell division (GO:0051301)	14	4	.18	+	21.92	1.99E-02
+cell cycle (GO:0007049)	116	9	1.51	+	5.95	1.39E-02
+RNA processing (GO:0006396)	250	13	3.26	+	3.99	1.40E-02
+RNA metabolic process (GO:0016070)	394	20	5.14	+	3.89	6.95E-05
+nucleic acid metabolic process (GO:0090304)	531	20	6.92	+	2.89	7.94E-03
+gene expression (GO:0010467)	549	20	7.16	+	2.79	1.31E-02
+macromolecule biosynthetic process (GO:0009059)	659	24	8.59	+	2.79	1.38E-03
+nucleobase-containing compound metabolic process (GO:0006139)	659	23	8.59	+	2.68	5.09E-03
+heterocycle metabolic process (GO:0046483)	715	23	9.32	+	2.47	1.97E-02
+cellular aromatic compound metabolic process (GO:0006725)	722	23	9.41	+	2.44	2.31E-02
+cellular biosynthetic process (GO:0044249)	913	28	11.90	+	2.35	6.29E-03
+organic substance biosynthetic process (GO:1901576)	945	28	12.32	+	2.27	9.83E-03
+biosynthetic process (GO:0009058)	946	28	12.33	+	2.27	1.00E-02
+cellular process (GO:0009987)	2368	53	30.87	+	1.72	4.60E-04
+biological_process (GO:0008150)	2864	57	37.34	+	1.53	5.97E-03
+Unclassified (UNCLASSIFIED)	3196	22	41.66	-	.53	0.00E00
